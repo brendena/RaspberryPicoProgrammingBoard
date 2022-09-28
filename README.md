@@ -9,9 +9,11 @@ connectors
 * 3 1.0mm jst connector - used on the pico with that comes pre soldiered
 
 
-## PicoProbeProgrammingBoard
+## PicoDebugInterface
 
 This is a small board that sites ontop of the main raspberry pi pico to add a 2x5 pin connector ontop to make it easier to program with the option to add extra debug pin as well.
 
 
+# RaspberryPi_PicoProgrammer
 
+This board will make programming the pico a little cleaner.  It shares most of the features that the PicoProbeProgrammerBoard has.  But with the added benifit have being able to directly read the i2c's or debug connections while directly from the pi.
