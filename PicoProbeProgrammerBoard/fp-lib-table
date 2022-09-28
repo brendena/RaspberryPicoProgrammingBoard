@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "KICAD LIB")(type "KiCad")(uri "/home/testsetup/Downloads/newBoard/KICAD LIB.pretty")(options "")(descr ""))
+  (lib (name "FOOTPRINTS")(type "KiCad")(uri "/home/testsetup/Downloads/newBoard/KICAD LIB/FOOTPRINTS.pretty")(options "")(descr ""))
+  (lib (name "JST")(type "KiCad")(uri "/home/testsetup/Documents/RaspberryPicoProgrammerBoard/Parts/ul_BM03B-SRSS-TB-LF-SN-/KiCAD/2022-09-27_22-36-34/footprints.pretty")(options "")(descr ""))
+)

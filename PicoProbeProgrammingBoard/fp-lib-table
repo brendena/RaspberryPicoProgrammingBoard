@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "KICAD LIB")(type "KiCad")(uri "/home/testsetup/Downloads/newBoard/KICAD LIB.pretty")(options "")(descr ""))
+  (lib (name "FOOTPRINTS")(type "KiCad")(uri "/home/testsetup/Downloads/newBoard/KICAD LIB/FOOTPRINTS.pretty")(options "")(descr ""))
+  (lib (name "ProgramingFootprints")(type "KiCad")(uri "${KIPRJMOD}/ProgramingFootprints.pretty")(options "")(descr ""))
+)
