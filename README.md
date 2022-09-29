@@ -17,3 +17,5 @@ This is a small board that sites ontop of the main raspberry pi pico to add a 2x
 # RaspberryPi_PicoProgrammer
 
 This board will make programming the pico a little cleaner.  It shares most of the features that the PicoProbeProgrammerBoard has.  But with the added benifit have being able to directly read the i2c's or debug connections while directly from the pi.
+
+* Potentially very usfull with a right angle for the pi 4000.  So you can easily add debugging ability to that board.
