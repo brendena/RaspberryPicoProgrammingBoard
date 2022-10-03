@@ -993,9 +993,9 @@
   )
 
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 212.09 44.45 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 304796e4-b0af-47f9-9fce-1cf45742a90d)
-    (property "Reference" "JP2" (id 0) (at 212.09 38.1 0))
+    (property "Reference" "JP2" (id 0) (at 212.09 49.53 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 212.09 40.64 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 212.09 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
