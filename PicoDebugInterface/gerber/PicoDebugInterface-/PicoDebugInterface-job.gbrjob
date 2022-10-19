@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "6.0.8-f2edbf62ab~116~ubuntu22.04.1"
     },
-    "CreationDate": "2022-10-03T19:02:53-04:00"
+    "CreationDate": "2022-10-04T18:23:03-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "RaspberryPi_PicoProgrammer",
-      "GUID": "52617370-6265-4727-9279-50695f506963",
+      "Name": "PicoDebugInterface",
+      "GUID": "5069636f-4465-4627-9567-496e74657266",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 20.956,
-      "Y": 55.218
+      "X": 15.2384,
+      "Y": 11.8856
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -24,57 +24,55 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25,
-      "TrackToRegion": 0.508,
-      "RegionToRegion": 0.508
+      "MinLineWidth": 0.25
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "RaspberryPi_PicoProgrammer-F_Cu.gbr",
+      "Path": "PicoDebugInterface-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-B_Cu.gbr",
+      "Path": "PicoDebugInterface-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-F_Paste.gbr",
+      "Path": "PicoDebugInterface-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-B_Paste.gbr",
+      "Path": "PicoDebugInterface-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-F_Silkscreen.gbr",
+      "Path": "PicoDebugInterface-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-B_Silkscreen.gbr",
+      "Path": "PicoDebugInterface-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-F_Mask.gbr",
+      "Path": "PicoDebugInterface-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-B_Mask.gbr",
+      "Path": "PicoDebugInterface-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RaspberryPi_PicoProgrammer-Edge_Cuts.gbr",
+      "Path": "PicoDebugInterface-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

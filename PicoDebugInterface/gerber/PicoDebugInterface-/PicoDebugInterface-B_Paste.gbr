@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,6.0.8-f2edbf62ab~116~ubuntu22.04.1*%
-%TF.CreationDate,2022-10-03T19:02:53-04:00*%
-%TF.ProjectId,RaspberryPi_PicoProgrammer,52617370-6265-4727-9279-50695f506963,rev?*%
+%TF.CreationDate,2022-10-04T18:23:03-04:00*%
+%TF.ProjectId,PicoDebugInterface,5069636f-4465-4627-9567-496e74657266,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.8-f2edbf62ab~116~ubuntu22.04.1) date 2022-10-03 19:02:53*
+G04 Created by KiCad (PCBNEW 6.0.8-f2edbf62ab~116~ubuntu22.04.1) date 2022-10-04 18:23:03*
 %MOMM*%
 %LPD*%
 G01*
