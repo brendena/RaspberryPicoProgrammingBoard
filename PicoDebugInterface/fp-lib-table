@@ -2,4 +2,6 @@
   (lib (name "KICAD LIB")(type "KiCad")(uri "/home/testsetup/Downloads/newBoard/KICAD LIB.pretty")(options "")(descr ""))
   (lib (name "FOOTPRINTS")(type "KiCad")(uri "/home/testsetup/Downloads/newBoard/KICAD LIB/FOOTPRINTS.pretty")(options "")(descr ""))
   (lib (name "ProgramingFootprints")(type "KiCad")(uri "${KIPRJMOD}/ProgramingFootprints.pretty")(options "")(descr ""))
+  (lib (name "Parts")(type "KiCad")(uri "/home/brenden/Documents/pico/RaspberryPicoProgrammingBoard/Parts.pretty")(options "")(descr ""))
+  (lib (name "RP-Pico Libraries")(type "KiCad")(uri "/home/brenden/Documents/pico/RaspberryPicoProgrammingBoard/Parts/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
 )

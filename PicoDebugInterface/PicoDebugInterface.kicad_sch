@@ -570,7 +570,7 @@
     (uuid 4fe21c75-0ccd-4490-98b1-8c922bb64cdc)
     (property "Reference" "U1" (id 0) (at 166.37 26.67 0))
     (property "Value" "Pico" (id 1) (at 166.37 29.21 0))
-    (property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (id 2) (at 166.37 58.42 90)
+    (property "Footprint" "RP-Pico Libraries:RPi_Pico_SMD_TH" (id 2) (at 166.37 58.42 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 166.37 58.42 0)
@@ -767,7 +767,7 @@
       (reference "J5") (unit 1) (value "Conn_01x03_Female") (footprint "ProgramingFootprints:BottomSWDConnection")
     )
     (path "/4fe21c75-0ccd-4490-98b1-8c922bb64cdc"
-      (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
+      (reference "U1") (unit 1) (value "Pico") (footprint "RP-Pico Libraries:RPi_Pico_SMD_TH")
     )
   )
 )
